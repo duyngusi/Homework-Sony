@@ -1,0 +1,33 @@
+
+body { background-color: #FFFFFA; /* A lighter shade of Ivory */ }
+
+h1, h2,  th { font-family: 'Droid Sans', sans-serif;
+			 color: White;
+			 background-color: #003D6A;
+			 padding: 5px; }
+h3, h4 { font-family: 'Droid Sans', sans-serif;
+         color: #CE5F1A;
+         border-bottom: solid 1px #003D6A;
+		 text-align: center;}
+h5, h6 { font-family: 'Droid Sans', sans-serif;
+         color: #003D6A; }
+
+h1.banner { text-align: center;
+			font-size: 300%;
+			padding: 20px; }
+p, li, figcaption { font-family: 'Droid Serif', serif;
+	color: DarkSlateGray; }
+p.center { text-align: center; }
+a { font-family: 'Droid Serif', serif;
+	color: #004987; }
+figure { border: 1px solid #000;
+		 padding: 5px;
+		 display: table;
+		 text-align: center; }
+
+header { padding-top: 20px;
+		 margin: 0;
+		 text-align: center; }
+span.nav-link { color: #004987;
+			padding-left: 20px;
+			padding-right: 20px; }
